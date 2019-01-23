@@ -7,7 +7,7 @@ github_profile_url: 'https://github.com/Ruben7173/'
 github_source_url: https://github.com/Ruben7173/Ruben7173.github.io/blob/master/BetterDiscord-Themes/Darling-in-The-Franxx/02-theme.theme.css
 support: 'https://github.com/Ruben7173/Ruben7173.github.io/issues'
 demo: https://rawcdn.githack.com/Ruben7173/Ruben7173.github.io/master/BetterDiscord-Themes/Darling-in-The-Franxx/code.css
-thumbnail: https://i.imgur.com/sYDb0Pq.jpg
+thumbnail: https://imgur.com/7RVpcFW
 previews: [https://i.imgur.com/sYDb0Pq.jpg]
 auto: true
 style: dark
